@@ -1,0 +1,9 @@
+{
+	"classes": 1,
+	"class_names": [
+		"prostate"
+	],
+	"class_dic": {
+		"prostate": 1
+	}
+}
